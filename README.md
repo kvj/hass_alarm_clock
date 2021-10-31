@@ -25,3 +25,7 @@ State sensor exposes the following values when alarm time is reached:
 The value can be used in Automations to trigger the scenes, play music, etc.
 
 ### Screenshots
+
+<img width="429" alt="Screenshot 2021-10-31 at 09 20 01" src="https://user-images.githubusercontent.com/159124/139574325-837db96c-6658-4db8-a0f0-758d95231d62.png">
+
+<img width="1021" alt="Screenshot 2021-10-31 at 09 20 22" src="https://user-images.githubusercontent.com/159124/139574331-e91f2b73-8c6a-4500-bc20-13d017189385.png">
