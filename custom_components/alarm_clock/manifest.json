@@ -1,0 +1,12 @@
+{
+  "domain": "alarm_clock",
+  "name": "Alarm Clock",
+  "documentation": "https://github.com/kvj/hass_alarm_clock",
+  "issue_tracker": "https://github.com/kvj/hass_alarm_clock/issues",
+  "dependencies": [],
+  "codeowners": ["@kvj"],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "config_flow": true,
+  "version": "0.0.1"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Alarm Clock",
+    "domains": ["sensor"],
+    "render_readme": true
+}

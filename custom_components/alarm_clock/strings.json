@@ -1,0 +1,46 @@
+{
+  "title": "Alarm Clock",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add new Alarm Clock",
+        "data": {
+          "name": "Name",
+          "time": "Time",
+          "mon": "Monday",
+          "tue": "Tuesday",
+          "wed": "Wednesday",
+          "thu": "Thursday",
+          "fri": "Friday",
+          "sat": "Saturday",
+          "sun": "Sunday"
+        }
+      }
+    },
+    "error": {
+        "no_days": "At least one day is needed",
+        "invalid_time": "Invalid time"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Configure Alarm Clock",
+        "data": {
+          "time": "Time",
+          "mon": "Monday",
+          "tue": "Tuesday",
+          "wed": "Wednesday",
+          "thu": "Thursday",
+          "fri": "Friday",
+          "sat": "Saturday",
+          "sun": "Sunday"
+        }
+      }
+    },
+    "error": {
+      "no_days": "At least one day is needed",
+      "invalid_time": "Invalid time"
+    }
+  }
+}
