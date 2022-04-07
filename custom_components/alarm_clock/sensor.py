@@ -1,4 +1,5 @@
 from homeassistant.components.sensor import SensorEntity
+from homeassistant.helpers.entity import EntityCategory
 
 import logging
 
@@ -56,4 +57,4 @@ class NextAlarm(AlarmClockEntity, SensorEntity):
 
     @property
     def entity_category(self):
-        return "diagnostic"
+        return EntityCategory.DIAGNOSTIC

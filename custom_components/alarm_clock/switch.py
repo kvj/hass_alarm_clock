@@ -1,4 +1,5 @@
 from homeassistant.components.switch import SwitchEntity
+from homeassistant.helpers.entity import EntityCategory
 
 import logging
 
@@ -38,4 +39,4 @@ class Active(AlarmClockEntity, SwitchEntity):
 
     @property
     def entity_category(self):
-        return "config"
+        return EntityCategory.CONFIG
